@@ -1,0 +1,13 @@
+{
+  "name": "nxtgo-logistics",
+  "version": "1.0.0",
+  "description": "Nxtgo Logistics - Deliveries Made Simple",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'",
+    "start": "echo 'Static site - serve index.html'"
+  },
+  "keywords": ["logistics", "delivery", "supply-chain"],
+  "author": "Nxtgo Logistics",
+  "license": "ISC"
+}
